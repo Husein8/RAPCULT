@@ -1,0 +1,27 @@
+.shadow-red-button {
+  /* box-shadow: 10px 10px 5px 5px rgba(232, 13, 13, 0.982); */
+}
+
+/* Hover effect for the button */
+.shadow-red-button:hover {
+  box-shadow: 0 6px 8px -1px rgba(255, 0, 0, 0.2),
+    0 4px 6px -1px rgba(255, 0, 0, 0.1);
+  color: aqua;
+}
+
+.logo {
+  background-color: black;
+}
+
+.button {
+  background-color: #27272a;
+}
+
+.logo-background {
+  background-color: #27272a;
+  border-radius: 60px;
+}
+
+.border-picture {
+  border-radius: 25px;
+}
