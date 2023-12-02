@@ -1,0 +1,132 @@
+.shadow-red-button {
+  /* box-shadow: 10px 10px 5px 5px rgba(232, 13, 13, 0.982); */
+}
+
+/* Hover effect for the button */
+.shadow-red-button:hover {
+  box-shadow: 0 6px 8px -1px rgba(255, 0, 0, 0.2),
+    0 4px 6px -1px rgba(255, 0, 0, 0.1);
+  color: aqua;
+}
+
+.logo {
+  background-color: black;
+}
+
+.button {
+  background-color: #27272a;
+}
+
+.logo-background {
+  background-color: #27272a;
+  border-radius: 60px;
+}
+
+.success-container {
+  border-radius: 60px;
+}
+
+.bottom-border {
+  border-radius: 60px 60px 0px 0px;
+}
+
+.border-picture {
+  border-radius: 25px;
+}
+
+/* NUM 1 */
+.num-1 {
+  top: -3.5rem;
+  left: 1rem;
+}
+
+@media (min-width: 767px) {
+  .num-1 {
+    top: 4rem;
+    left: 47.2%;
+  }
+}
+
+@media (min-width: 1023px) {
+  .num-1 {
+    left: 47.8%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .num-1 {
+    left: 48.3%;
+  }
+}
+
+/* NUM 2 */
+.num-2 {
+  left: 1rem;
+}
+
+@media (min-width: 767px) {
+  .num-2 {
+    top: 8rem;
+    left: 22.7rem;
+  }
+}
+
+@media (min-width: 1023px) {
+  .num-2 {
+    left: 47.8%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .num-2 {
+    left: 48.3%;
+  }
+}
+
+/* NUM 3 */
+.num-3 {
+  left: 1rem;
+}
+
+@media (min-width: 767px) {
+  .num-3 {
+    top: 8rem;
+    left: 22.7rem;
+  }
+}
+
+@media (min-width: 1023px) {
+  .num-3 {
+    left: 47.8%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .num-3 {
+    left: 48.3%;
+  }
+}
+
+/* BUTTON POSITION  */
+.button-position {
+  left: 0rem;
+}
+
+@media (min-width: 767px) {
+  .button-position {
+    top: 8rem;
+    left: 39.5%;
+  }
+}
+
+@media (min-width: 950px) {
+  .button-position {
+    left: 41.8%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .button-position {
+    left: 43.8%;
+  }
+}
