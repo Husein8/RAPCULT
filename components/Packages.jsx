@@ -140,7 +140,7 @@ const Packages = () => {
 
             <ul className="text-white">
               <li className="flex text-center items-center ">
-                <FaCheck className="mr-3 text-red-600" />
+                <FaCheck clSassName="mr-3 text-red-600" />
                 lorem ipsum
               </li>
               <li className="flex text-center items-center ">
